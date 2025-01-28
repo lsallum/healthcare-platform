@@ -1,0 +1,16 @@
+// Initial structure in Next.js:
+// - Pages:
+//   - Home (dashboard)
+//   - Patients (CRUD for patients)
+//   - Dentists (CRUD for dentists)
+//   - Appointments (scheduling and consultations)
+//   - Invoices (payment control)
+// - Components:
+//   - Reusable form for registration and editing (InputField, DatePicker)
+//   - Tables (Table with filters and pagination)
+// - Services:
+//   - Axios for backend communication
+
+// Observations:
+// - This is just the initial skeleton of the project.
+// - Tests should be written to ensure system quality.
